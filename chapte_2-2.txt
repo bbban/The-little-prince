@@ -1,0 +1,38 @@
+tray
+	n.homeless cat
+	v.moveaboat aimlessly or without any destination,oftenin search of food or employment
+	v.wander from a direct course or at random
+	v.lose clarity or turn aside especially from the main subject of attention or course of argument in writing,thinking or speaking
+	adj.not close together in time
+faint
+	n. aspontaneous loss of consciousness caused by insufficient bloof to brain
+	v.pass out from weakness,physical or emotional distress due to a loss of blood supply to th brain
+	adj.lacking strength or vigor
+	adj.lacking clarity or distinctness
+fatigue
+	n.temporary loss of strength and energy resulting fron hard physical or mental work
+	v.get tired of somthing or somebody
+pockey
+	n. a small pouch inside agarment for carrying small articles
+	n. an enclosed space
+	n. a supply of money
+	v.put in one's pockey
+	v.to steal money,especially money that you are responsible for
+	adj.small enough to be carried in your pocket
+fountain
+	n.astructure from which water is pushed uo into the ari,used for examples as decoration in a garden or park
+	n.a flow of liquid, or of something bright and colorful that goes straight up into the air
+astound
+	v.to make someone very surprised or shocked
+cumbersome
+	adj.a process or system that is cumbersome is slow and diffult
+	adj.heavy and difficult to move
+	adj.words or phrases that are cumbersome are long or complicated
+sickly
+	adj.unhealthy looking
+indulgently
+	adv.charecterized by or given to yielding to the wishes of someone
+toss off
+	to perform.write,consume,etc,quickly and easily
+acquaintance
+	sb you know
